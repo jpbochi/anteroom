@@ -1,0 +1,9 @@
+language: none
+
+build:
+  pre_ci_boot:
+    image_name: node
+    image_tag: 6.10.3
+    pull: true
+  ci:
+    - yarn
