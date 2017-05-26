@@ -1,0 +1,19 @@
+{
+  "name": "anteroom",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbochi/anteroom.git"
+  },
+  "author": "JP Bochi",
+  "license": "BipCot NoGov Software License (www.bipcot.org)",
+  "bugs": {
+    "url": "https://github.com/jpbochi/anteroom/issues"
+  },
+  "homepage": "https://github.com/jpbochi/anteroom#readme"
+}
