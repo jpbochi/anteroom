@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "6.10.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +14,7 @@
     "url": "git+https://github.com/jpbochi/anteroom.git"
   },
   "author": "JP Bochi",
-  "license": "BipCot NoGov Software License (www.bipcot.org)",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/jpbochi/anteroom/issues"
   },
