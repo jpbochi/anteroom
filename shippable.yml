@@ -8,3 +8,4 @@ build:
   ci:
     - yarn
     - npm test
+    - npm run lint
