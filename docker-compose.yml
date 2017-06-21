@@ -1,10 +1,10 @@
 version: "2"
 services:
   server:
-    image: node:6.10.3
+    image: node:6.10.2
     working_dir: /var/main
     command: npm run start
     volumes:
       - .:/var/main
     ports:
-      - 3000:3000
+      - 8080:8080
