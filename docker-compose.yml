@@ -3,7 +3,7 @@ services:
   server:
     image: node:6.10.3
     working_dir: /var/main
-    command: npm run start
+    command: npm run start:cold
     volumes:
       - .:/var/main
     ports:
